@@ -6,6 +6,7 @@ body{
 
 .page {
 	margin: 40px auto;
+	width: 800px;
 	border: 2px solid black;
 	border-radius: 15px;
 	background-color: white;
@@ -50,6 +51,7 @@ h1{
 
 h2{
   font-family:Georgia;
+ 
 }
 
 .top-nav ul{
