@@ -59,6 +59,7 @@ h2{
 
 .top-nav ul{
 	list-style-type:none;
+	font-family: monospace;
 }
 
 .top-nav ul li{
